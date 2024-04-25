@@ -1,4 +1,5 @@
-![giphy](https://github.com/VicenAlonso/VicenAlonso/assets/163451483/25465251-16b6-4bcc-9b78-ce57ffb1355f)
+![giphy](https://github.com/VicenAlonso/VicenAlonso/assets/163451483/25465251-16b6-4bcc-9b78-ce57ffb1355f) Hola, mi nombre es VicenAlonso 👋
+### Freelance full-stack iOS & Android engineer
 
 Hi 😀 I'm VicenAlonso
 
