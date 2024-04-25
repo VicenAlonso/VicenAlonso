@@ -1,7 +1,7 @@
 ![giphy](https://github.com/VicenAlonso/VicenAlonso/assets/163451483/25465251-16b6-4bcc-9b78-ce57ffb1355f)
+Hi 😀 I'm VicenAlonso
 
 
-**VicenAlonso/VicenAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
