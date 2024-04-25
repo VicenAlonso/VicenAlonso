@@ -1,4 +1,4 @@
-![image](https://github.com/VicenAlonso/VicenAlonso/assets/163451483/42104493-fbfa-4936-8573-84609a04b7d1)
+![giphy](https://github.com/VicenAlonso/VicenAlonso/assets/163451483/25465251-16b6-4bcc-9b78-ce57ffb1355f)
 
 
 **VicenAlonso/VicenAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
