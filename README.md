@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![@arjunmahishi](https://img.shields.io/badge/twitter-blue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/arjunmahishi)
+[![@arjunmahishi]([https://img.shields.io/badge/twitter-blue.svg?style=for-the-badge&logo=twitter](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white
+))](https://twitter.com/arjunmahishi)
