@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![@VicenAlonso](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)(https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)(https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![@VicenAlonso](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white) ![@VicenAlonso](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)(https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
